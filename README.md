@@ -9,7 +9,7 @@ Comp Labs
 
 ## Wallpapers Gallery
 
-![Japanese Tower Moonlight](/Japanese_Tower_Moonlight.jpg)
+!(/Japanese_Tower_Moonlight.jpg)
 ![Scenes WallPaper Win7](/Scenes-Wallpaper-3.jpg)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
