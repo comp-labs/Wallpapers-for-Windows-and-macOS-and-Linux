@@ -9,13 +9,16 @@ Comp Labs
 
 ## Wallpapers Gallery
 
-![Japanese Tower Moonlight](/Japanese_Tower_Moonlight.jpg)
-![Scenes WallPaper Win7](/Scenes-Wallpaper-3.jpg)
-![This is an image](/Scenes-Wallpaper-6.jpg)
-![This is an image](/Wallpaper-1.jpg)
-![This is an image](Wallpaper-2.jpg)
-![This is an image](Wallpaper-3.jpg)
-![This is an image](Win10.jpg)
+| ![Japanese Tower Moonlight](/Japanese_Tower_Moonlight.jpg)  | ![Scenes WallPaper Win7](/Scenes-Wallpaper-3.jpg) |
+| ![This is an image](/Scenes-Wallpaper-6.jpg) | ![This is an image](/Scenes-Wallpaper-6.jpg) |
+| ![This is an image](/Wallpaper-1.jpg)  | ![This is an image](Wallpaper-2.jpg)  |
+| ![This is an image](Wallpaper-3.jpg)  | ![This is an image](Win10.jpg)  |
+
+
+
+
+
+
 ![This is an image](img10.jpg)
 ![This is an image](img11.jpg)
 ![This is an image](img2.jpg)
