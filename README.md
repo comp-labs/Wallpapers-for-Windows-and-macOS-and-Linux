@@ -4,6 +4,6 @@ Beautiful Wallpapers by Tech Fiddle. View Gallery at https://wallpapers.complabs
 
 <footer>
 <p align="center" style="font-size: smaller;">
-Copyright © 2022 Tech FIddle. Built with ❤️ by the Tech Fiddle Team.
+Copyright © 2023 Tech FIddle. Built with ❤️ by the Tech Fiddle Team.
 </p>
 </footer>
