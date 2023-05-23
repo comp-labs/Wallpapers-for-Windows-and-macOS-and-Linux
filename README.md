@@ -1,6 +1,6 @@
 # Wallpapers for Windows and macOS and Linux
 
-Beautiful Wallpapers by Tech Fiddle. View Gallery at https://wallpapers.complabs.in
+Beautiful Wallpapers by Tech Fiddle. View Gallery at https://wallpapers.techfiddle.io
 
 <footer>
 <p align="center" style="font-size: smaller;">
