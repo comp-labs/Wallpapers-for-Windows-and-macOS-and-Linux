@@ -11,12 +11,13 @@ export default function WallpaperShowcase() {
   }, []);
 
   return (
-    <div className="grid grid-cols-4 gap-4">
+    <div className="grid grid-cols-4 gap-4 p-4">
       {wallpapers.map((wallpaper, index) => (
         <img
           key={index}
           src={`/wallpapers/${wallpaper}`}
           alt={`Wallpaper ${index + 1}`}
+          className="rounded-xl"
         />
       ))}
     </div>

@@ -1,4 +1,10 @@
 import './globals.css'
+import { Rubik } from 'next/font/google';
+
+const rubik = Rubik({
+  subsets: ['latin'],
+  display: 'swap',
+});
 
 export const metadata = {
   title: 'Wallpapers | Tech Fiddle',
@@ -11,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className={rubik.className}>
       <body>{children}</body>
     </html>
   )
